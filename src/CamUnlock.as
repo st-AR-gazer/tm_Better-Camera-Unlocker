@@ -1,3 +1,4 @@
+// ty XertroV "https://github.com/XertroV/tm-editor-plus-plus"
 uint16 GetOffset(const string &in className, const string &in memberName) {
     // throw exception when something goes wrong.
     auto ty = Reflection::GetType(className);

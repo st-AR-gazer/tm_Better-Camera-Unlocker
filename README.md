@@ -1,3 +1,3 @@
 # Editor Camera Unlocker for Trackmania
 
-This plugin was forked from the old .as version from MosKi with its permission.
+This plugin was forked from the version Greep forked from MosKi.

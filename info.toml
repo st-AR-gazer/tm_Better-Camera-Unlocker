@@ -1,9 +1,9 @@
 [meta]
 name = "Camera Unlocker"
-author = "Greep"
+author = "Greep & ar & XertroV"
 category = "Map Editor"
 siteid = 172
 
-version = "1.0"
+version = "1.1"
 
 blocks = [ "Plugin_CamUnlock" ]
